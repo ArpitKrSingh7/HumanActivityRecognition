@@ -1,0 +1,46 @@
+# ✅ Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.DS_Store
+*.log
+
+# ✅ Virtual Environments
+venv/
+env/
+.venv/
+
+# ✅ Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# ✅ PyTorch / ML Checkpoints
+*.pth
+*.pt
+*.onnx
+
+# ✅ Dataset (too large to upload)
+data/
+UCIHARDataset/
+*.zip
+*.tar.gz
+
+# ✅ Training Artifacts
+runs/
+models/
+results/*.png
+results/*.txt
+*.npy
+
+# ✅ Exported Samples
+sample_from_dataset.csv
+
+# ✅ OS System Files
+Thumbs.db
+.DS_Store
+
+# ✅ IDE / Editor Files
+.vscode/
+.idea/
+

@@ -1,0 +1,31 @@
+# Deep Learning
+torch
+torchaudio
+torchvision
+
+# Data processing & utilities
+numpy
+pandas
+scikit-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Experiment tracking
+mlflow
+
+# Notebook support
+jupyter
+ipykernel
+
+# Progress bar
+tqdm
+
+# For plotting confusion matrix & PCA
+scipy
+
+# File handling
+pyyaml
+
