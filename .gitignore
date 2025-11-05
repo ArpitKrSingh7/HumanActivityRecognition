@@ -26,13 +26,6 @@ UCIHARDataset/
 *.zip
 *.tar.gz
 
-# ✅ Training Artifacts
-runs/
-models/
-results/*.png
-results/*.txt
-*.npy
-
 # ✅ Exported Samples
 sample_from_dataset.csv
 
